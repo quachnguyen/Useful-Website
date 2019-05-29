@@ -5,6 +5,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
+// SOme comment to explain this code
 var hbs = require('hbs');
 var session = require('express-session');
 
